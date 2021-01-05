@@ -20,5 +20,5 @@ phases:
   postbuild:
     commands:
       - echo Executing Post Build Phase
-     finally:
+    finally:
       - echo Executing Post Build Finally
