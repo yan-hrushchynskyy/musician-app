@@ -1,2 +1,2 @@
 # musician-app
-NodeJS / React sample app for AWS CI/CD pipeline
+NodeJS / React sample app for AWS CI/CD pipeline!
